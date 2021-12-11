@@ -22,7 +22,7 @@ INCTRUCTIONS FOR THE USER RUNNING THIS PROGRAM:
 
 DESCRIPTION AND FNCTIONING OF PROGRAM:
 It is a combination program of 
--Cholesterol and its ratios calculator
+<br />-Cholesterol and its ratios calculator
 -BMI calculator
 -Height and Weight convertor
 The code can be understood via the comments put in the code, but for better understanding:
